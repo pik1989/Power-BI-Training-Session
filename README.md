@@ -1,9 +1,7 @@
 <h2 align="center">FREE Power BI Sessions conducted by Satyajit Pattnaik 👏👏</h2> 
 
-![Power BI expert](https://user-images.githubusercontent.com/34673684/160291984-b37a03f1-8f6c-4af0-bb44-0014e4722103.png)
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/34673684/160291984-b37a03f1-8f6c-4af0-bb44-0014e4722103.png" width="350" title="hover text">
+  <img src="https://user-images.githubusercontent.com/34673684/160291984-b37a03f1-8f6c-4af0-bb44-0014e4722103.png" width="450" title="hover text">
 </p>
 
 ### **Below are the links to the two classes taught so far:** 👇👇
