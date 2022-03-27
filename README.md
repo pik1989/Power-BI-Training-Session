@@ -1,4 +1,4 @@
-# Welcome to the FREE Power BI Sessions conducted by Satyajit Pattnaik
+# FREE Power BI Sessions conducted by Satyajit Pattnaik
 
 ![Power BI expert](https://user-images.githubusercontent.com/34673684/160291984-b37a03f1-8f6c-4af0-bb44-0014e4722103.png)
 
