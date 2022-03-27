@@ -12,6 +12,5 @@
 
 3rd April & 10th April
 
-In case you are willing to learn Power BI from scratch in a structured way, find me on Udemy:
-Enroll using this link to avail the course at Rs. 360/-
+In case you are willing to learn Power BI from scratch in a structured way, Enroll using this link to avail the course at Rs. 360/-
 Link: https://www.udemy.com/course/microsoft-power-bi-complete-guide-2022-edition/?couponCode=SAT360
