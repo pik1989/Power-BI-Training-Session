@@ -14,6 +14,10 @@
 
 3rd April & 10th April
 
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/34673684/160292625-398069c9-5fa2-41a6-a74c-a8353d9d0f72.png" width="450" title="hover text">
+</p>
+
 In case you are willing to learn Power BI from scratch in a structured way, enroll using the link to get a discounted price:
 (https://www.udemy.com/course/microsoft-power-bi-complete-guide-2022-edition/?couponCode=SAT360)
 
