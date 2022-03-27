@@ -1,10 +1,9 @@
-<h2 align="center">FREE Power BI Sessions conducted by Satyajit Pattnaik 👏👏</h2> 
+<h2 align="left">FREE Power BI Sessions conducted by Satyajit Pattnaik 👏👏</h2> 
 
-<p align="center">
+<p align="left">
   <img src="https://user-images.githubusercontent.com/34673684/160291984-b37a03f1-8f6c-4af0-bb44-0014e4722103.png" width="450" title="hover text">
 </p>
 
-<p align="center">
 ### **Below are the links to the two classes taught so far:** 👇👇
 
 📺 _**Day 1:**_ https://www.youtube.com/watch?v=T5_VpyP2NP4
@@ -17,7 +16,7 @@
 
 In case you are willing to learn Power BI from scratch in a structured way, enroll using the link to get a discounted price:
 (https://www.udemy.com/course/microsoft-power-bi-complete-guide-2022-edition/?couponCode=SAT360)
-</p>
+
 ### Please fork the repo if you like it !! 
 ---
 <p align="left">
