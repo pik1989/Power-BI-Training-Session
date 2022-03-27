@@ -14,7 +14,7 @@
 
 3rd April & 10th April
 
-### Don't want to wait for the free classes, and want to learn quickly?
+### Don't want to wait for the free classes, and want to learn quickly? 👇👇
 
 [<img alt="alt_text" width="450px" src="https://user-images.githubusercontent.com/34673684/160292625-398069c9-5fa2-41a6-a74c-a8353d9d0f72.png" />](https://www.udemy.com/course/microsoft-power-bi-complete-guide-2022-edition/?couponCode=SAT360)
 
