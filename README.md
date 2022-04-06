@@ -10,9 +10,11 @@
 
 📺 _**Day 2:**_ https://www.youtube.com/watch?v=cFKcDHzRcrM
 
+📺 _**Day 3:**_ https://www.youtube.com/watch?v=mc5o9Q7p0_s
+
 **Upcoming Classes:** 👇👇
 
-3rd April & 10th April
+10th April
 
 ### Don't want to wait for the free classes, and want to learn quickly? 👇👇
 
